@@ -347,7 +347,7 @@ namespace Vuforia.EditorClasses
 #if (UNITY_5_3 || UNITY_5_2)
             if (target == BuildTarget.iOS)
 #else
-            if(target == BuildTarget.iPhone)
+            if(target == BuildTarget.iOS)
 #endif
             {
                 var xCodeProjFullPath = Path.Combine(pathToBuiltProject, "Unity-iPhone.xcodeproj");
