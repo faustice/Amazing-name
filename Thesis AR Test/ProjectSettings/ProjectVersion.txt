@@ -1,2 +1,10 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+m_EditorVersion: 5.3.1f1
+=======
 m_EditorVersion: 5.1.0f3
+>>>>>>> 1e20bb9c5eb070c6a39716c5966d9727fe43c90b
+=======
+m_EditorVersion: 5.2.0f3
+>>>>>>> parent of 169a81a... frrt
 m_StandardAssetsVersion: 0
