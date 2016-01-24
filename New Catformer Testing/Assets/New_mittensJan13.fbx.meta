@@ -1,0 +1,3214 @@
+fileFormatVersion: 2
+guid: 108b90373859c4c82859b24afa6a8b86
+timeCreated: 1452733875
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Back Foot .L
+    100002: Back Foot .L_end
+    100004: Back Foot .R
+    100006: Back Foot .R_end
+    100008: Back IK .L
+    100010: Back IK .L_end
+    100012: Back IK .R
+    100014: Back IK .R_end
+    100016: Back Legs
+    100018: Body
+    100020: Body Rig
+    100022: Camera
+    100024: Cylinder
+    100026: Ear L
+    100028: Ear L_end
+    100030: Ear R
+    100032: Ear R_end
+    100034: Ears
+    100036: Eye.L
+    100038: Eye.L Control
+    100040: Eye.L_end
+    100042: Eye.R
+    100044: Eye.R Control
+    100046: Eye.R_end
+    100048: Eyeball.L
+    100050: Eyeball.R
+    100052: Eyebrow.L
+    100054: Eyebrow.L Control
+    100056: Eyebrow.L_end
+    100058: Eyebrow.R
+    100060: Eyebrow.R Control
+    100062: Eyebrow.R_end
+    100064: Eyelid.L
+    100066: Eyelid.R
+    100068: Front Foot .L
+    100070: Front Foot .L_end
+    100072: Front Foot .R
+    100074: Front Foot .R_end
+    100076: Front IK .L
+    100078: Front IK .L_end
+    100080: Front IK .R
+    100082: Front IK .R_end
+    100084: Front Legs
+    100086: Head
+    100088: Head 1
+    100090: Joint L
+    100092: Joint L_end
+    100094: Joint R
+    100096: Joint R_end
+    100098: Lamp
+    100100: Lower B Leg .L
+    100102: Lower B Leg .R
+    100104: Lower F Leg .L
+    100106: Lower F Leg .R
+    100108: Lower Torso
+    100110: Lower Torso_end
+    100112: Main Eye Control
+    100114: Main Eye Control.001
+    100116: Main Eye Control.001_end
+    100118: Mouth
+    100120: Mouth Control
+    100122: Mouth_end
+    100124: Neck
+    100126: Neck 1
+    100128: //RootNode
+    100130: Nose
+    100132: Nose Control
+    100134: Nose_end
+    100136: Tail
+    100138: Tail 1
+    100140: Tail 2
+    100142: Tail 3
+    100144: Tail 4
+    100146: Tail 4_end
+    100148: Upper B Leg .L
+    100150: Upper B Leg .R
+    100152: Upper F Leg .L
+    100154: Upper F Leg .R
+    100156: Upper Torso
+    400000: Back Foot .L
+    400002: Back Foot .L_end
+    400004: Back Foot .R
+    400006: Back Foot .R_end
+    400008: Back IK .L
+    400010: Back IK .L_end
+    400012: Back IK .R
+    400014: Back IK .R_end
+    400016: Back Legs
+    400018: Body
+    400020: Body Rig
+    400022: Camera
+    400024: Cylinder
+    400026: Ear L
+    400028: Ear L_end
+    400030: Ear R
+    400032: Ear R_end
+    400034: Ears
+    400036: Eye.L
+    400038: Eye.L Control
+    400040: Eye.L_end
+    400042: Eye.R
+    400044: Eye.R Control
+    400046: Eye.R_end
+    400048: Eyeball.L
+    400050: Eyeball.R
+    400052: Eyebrow.L
+    400054: Eyebrow.L Control
+    400056: Eyebrow.L_end
+    400058: Eyebrow.R
+    400060: Eyebrow.R Control
+    400062: Eyebrow.R_end
+    400064: Eyelid.L
+    400066: Eyelid.R
+    400068: Front Foot .L
+    400070: Front Foot .L_end
+    400072: Front Foot .R
+    400074: Front Foot .R_end
+    400076: Front IK .L
+    400078: Front IK .L_end
+    400080: Front IK .R
+    400082: Front IK .R_end
+    400084: Front Legs
+    400086: Head
+    400088: Head 1
+    400090: Joint L
+    400092: Joint L_end
+    400094: Joint R
+    400096: Joint R_end
+    400098: Lamp
+    400100: Lower B Leg .L
+    400102: Lower B Leg .R
+    400104: Lower F Leg .L
+    400106: Lower F Leg .R
+    400108: Lower Torso
+    400110: Lower Torso_end
+    400112: Main Eye Control
+    400114: Main Eye Control.001
+    400116: Main Eye Control.001_end
+    400118: Mouth
+    400120: Mouth Control
+    400122: Mouth_end
+    400124: Neck
+    400126: Neck 1
+    400128: //RootNode
+    400130: Nose
+    400132: Nose Control
+    400134: Nose_end
+    400136: Tail
+    400138: Tail 1
+    400140: Tail 2
+    400142: Tail 3
+    400144: Tail 4
+    400146: Tail 4_end
+    400148: Upper B Leg .L
+    400150: Upper B Leg .R
+    400152: Upper F Leg .L
+    400154: Upper F Leg .R
+    400156: Upper Torso
+    4300000: Eyelid.L
+    4300002: Eyelid.R
+    4300004: Eyeball.L
+    4300006: Eyeball.R
+    4300008: Cylinder
+    4300010: Back Legs
+    4300012: Front Legs
+    4300014: Tail
+    4300016: Neck
+    4300018: Body
+    4300020: Ears
+    4300022: Head
+    7400000: Body Rig|Crouch Idle
+    7400002: Body Rig|Death
+    7400004: Body Rig|Idle
+    7400006: Body Rig|Jump
+    7400008: Body Rig|Lay Down
+    7400010: Body Rig|Pounce
+    7400012: Body Rig|Run
+    7400014: Body Rig|Running Jump
+    7400016: Body Rig|Sit Down
+    7400018: Body Rig|Sit Down Idle
+    7400020: Body Rig|Sprint
+    7400022: Body Rig|Stalk
+    7400024: Body Rig|Static Backup
+    7400026: Body Rig|Walk
+    7400028: Eyelid.L|Idle
+    7400030: Eyelid.R|Death
+    9500000: //RootNode
+    13700000: Back Legs
+    13700002: Body
+    13700004: Cylinder
+    13700006: Ears
+    13700008: Eyeball.L
+    13700010: Eyeball.R
+    13700012: Eyelid.L
+    13700014: Eyelid.R
+    13700016: Front Legs
+    13700018: Head
+    13700020: Neck
+    13700022: Tail
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Body Rig|Crouch Idle
+      takeName: Body Rig|Crouch Idle
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back Legs
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body Rig
+        weight: 1
+      - path: Body Rig/Back IK .L
+        weight: 1
+      - path: Body Rig/Back IK .L/Back IK .L_end
+        weight: 1
+      - path: Body Rig/Back IK .R
+        weight: 1
+      - path: Body Rig/Back IK .R/Back IK .R_end
+        weight: 1
+      - path: Body Rig/Front IK .L
+        weight: 1
+      - path: Body Rig/Front IK .L/Front IK .L_end
+        weight: 1
+      - path: Body Rig/Front IK .R
+        weight: 1
+      - path: Body Rig/Front IK .R/Front IK .R_end
+        weight: 1
+      - path: Body Rig/Head 1
+        weight: 1
+      - path: Body Rig/Head 1/Ear L
+        weight: 1
+      - path: Body Rig/Head 1/Ear L/Ear L_end
+        weight: 1
+      - path: Body Rig/Head 1/Ear R
+        weight: 1
+      - path: Body Rig/Head 1/Ear R/Ear R_end
+        weight: 1
+      - path: Body Rig/Joint L
+        weight: 1
+      - path: Body Rig/Joint L/Joint L_end
+        weight: 1
+      - path: Body Rig/Joint R
+        weight: 1
+      - path: Body Rig/Joint R/Joint R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control/Eye.L
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control/Eye.L/Eye.L_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control/Eye.R
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control/Eye.R/Eye.R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control/Eyebrow.L
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control/Eyebrow.L/Eyebrow.L_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control/Eyebrow.R
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control/Eyebrow.R/Eyebrow.R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control/Mouth
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control/Mouth/Mouth_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control/Nose
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control/Nose/Nose_end
+        weight: 1
+      - path: Body Rig/Main Eye Control.001
+        weight: 1
+      - path: Body Rig/Main Eye Control.001/Main Eye Control.001_end
+        weight: 1
+      - path: Body Rig/Neck 1
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso/Lower Torso
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso/Lower Torso/Lower Torso_end
+        weight: 1
+      - path: Body Rig/Tail 1
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3/Tail 4
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3/Tail 4/Tail 4_end
+        weight: 1
+      - path: Body Rig/Upper B Leg .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L/Back Foot .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L/Back Foot .L/Back Foot .L_end
+        weight: 1
+      - path: Body Rig/Upper B Leg .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R/Back Foot .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R/Back Foot .R/Back Foot .R_end
+        weight: 1
+      - path: Body Rig/Upper F Leg .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L/Front Foot .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L/Front Foot .L/Front Foot .L_end
+        weight: 1
+      - path: Body Rig/Upper F Leg .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R/Front Foot .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R/Front Foot .R/Front Foot .R_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Ears
+        weight: 1
+      - path: Eyeball.L
+        weight: 1
+      - path: Eyeball.R
+        weight: 1
+      - path: Eyelid.L
+        weight: 1
+      - path: Eyelid.R
+        weight: 1
+      - path: Front Legs
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Body Rig|Death
+      takeName: Body Rig|Death
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back Legs
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body Rig
+        weight: 1
+      - path: Body Rig/Back IK .L
+        weight: 1
+      - path: Body Rig/Back IK .L/Back IK .L_end
+        weight: 1
+      - path: Body Rig/Back IK .R
+        weight: 1
+      - path: Body Rig/Back IK .R/Back IK .R_end
+        weight: 1
+      - path: Body Rig/Front IK .L
+        weight: 1
+      - path: Body Rig/Front IK .L/Front IK .L_end
+        weight: 1
+      - path: Body Rig/Front IK .R
+        weight: 1
+      - path: Body Rig/Front IK .R/Front IK .R_end
+        weight: 1
+      - path: Body Rig/Head 1
+        weight: 1
+      - path: Body Rig/Head 1/Ear L
+        weight: 1
+      - path: Body Rig/Head 1/Ear L/Ear L_end
+        weight: 1
+      - path: Body Rig/Head 1/Ear R
+        weight: 1
+      - path: Body Rig/Head 1/Ear R/Ear R_end
+        weight: 1
+      - path: Body Rig/Joint L
+        weight: 1
+      - path: Body Rig/Joint L/Joint L_end
+        weight: 1
+      - path: Body Rig/Joint R
+        weight: 1
+      - path: Body Rig/Joint R/Joint R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control/Eye.L
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control/Eye.L/Eye.L_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control/Eye.R
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control/Eye.R/Eye.R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control/Eyebrow.L
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control/Eyebrow.L/Eyebrow.L_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control/Eyebrow.R
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control/Eyebrow.R/Eyebrow.R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control/Mouth
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control/Mouth/Mouth_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control/Nose
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control/Nose/Nose_end
+        weight: 1
+      - path: Body Rig/Main Eye Control.001
+        weight: 1
+      - path: Body Rig/Main Eye Control.001/Main Eye Control.001_end
+        weight: 1
+      - path: Body Rig/Neck 1
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso/Lower Torso
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso/Lower Torso/Lower Torso_end
+        weight: 1
+      - path: Body Rig/Tail 1
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3/Tail 4
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3/Tail 4/Tail 4_end
+        weight: 1
+      - path: Body Rig/Upper B Leg .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L/Back Foot .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L/Back Foot .L/Back Foot .L_end
+        weight: 1
+      - path: Body Rig/Upper B Leg .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R/Back Foot .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R/Back Foot .R/Back Foot .R_end
+        weight: 1
+      - path: Body Rig/Upper F Leg .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L/Front Foot .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L/Front Foot .L/Front Foot .L_end
+        weight: 1
+      - path: Body Rig/Upper F Leg .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R/Front Foot .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R/Front Foot .R/Front Foot .R_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Ears
+        weight: 1
+      - path: Eyeball.L
+        weight: 1
+      - path: Eyeball.R
+        weight: 1
+      - path: Eyelid.L
+        weight: 1
+      - path: Eyelid.R
+        weight: 1
+      - path: Front Legs
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Body Rig|Idle
+      takeName: Body Rig|Idle
+      firstFrame: 0
+      lastFrame: 301
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back Legs
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body Rig
+        weight: 1
+      - path: Body Rig/Back IK .L
+        weight: 1
+      - path: Body Rig/Back IK .L/Back IK .L_end
+        weight: 1
+      - path: Body Rig/Back IK .R
+        weight: 1
+      - path: Body Rig/Back IK .R/Back IK .R_end
+        weight: 1
+      - path: Body Rig/Front IK .L
+        weight: 1
+      - path: Body Rig/Front IK .L/Front IK .L_end
+        weight: 1
+      - path: Body Rig/Front IK .R
+        weight: 1
+      - path: Body Rig/Front IK .R/Front IK .R_end
+        weight: 1
+      - path: Body Rig/Head 1
+        weight: 1
+      - path: Body Rig/Head 1/Ear L
+        weight: 1
+      - path: Body Rig/Head 1/Ear L/Ear L_end
+        weight: 1
+      - path: Body Rig/Head 1/Ear R
+        weight: 1
+      - path: Body Rig/Head 1/Ear R/Ear R_end
+        weight: 1
+      - path: Body Rig/Joint L
+        weight: 1
+      - path: Body Rig/Joint L/Joint L_end
+        weight: 1
+      - path: Body Rig/Joint R
+        weight: 1
+      - path: Body Rig/Joint R/Joint R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control/Eye.L
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control/Eye.L/Eye.L_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control/Eye.R
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control/Eye.R/Eye.R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control/Eyebrow.L
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control/Eyebrow.L/Eyebrow.L_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control/Eyebrow.R
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control/Eyebrow.R/Eyebrow.R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control/Mouth
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control/Mouth/Mouth_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control/Nose
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control/Nose/Nose_end
+        weight: 1
+      - path: Body Rig/Main Eye Control.001
+        weight: 1
+      - path: Body Rig/Main Eye Control.001/Main Eye Control.001_end
+        weight: 1
+      - path: Body Rig/Neck 1
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso/Lower Torso
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso/Lower Torso/Lower Torso_end
+        weight: 1
+      - path: Body Rig/Tail 1
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3/Tail 4
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3/Tail 4/Tail 4_end
+        weight: 1
+      - path: Body Rig/Upper B Leg .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L/Back Foot .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L/Back Foot .L/Back Foot .L_end
+        weight: 1
+      - path: Body Rig/Upper B Leg .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R/Back Foot .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R/Back Foot .R/Back Foot .R_end
+        weight: 1
+      - path: Body Rig/Upper F Leg .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L/Front Foot .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L/Front Foot .L/Front Foot .L_end
+        weight: 1
+      - path: Body Rig/Upper F Leg .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R/Front Foot .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R/Front Foot .R/Front Foot .R_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Ears
+        weight: 1
+      - path: Eyeball.L
+        weight: 1
+      - path: Eyeball.R
+        weight: 1
+      - path: Eyelid.L
+        weight: 1
+      - path: Eyelid.R
+        weight: 1
+      - path: Front Legs
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Body Rig|Jump
+      takeName: Body Rig|Jump
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back Legs
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body Rig
+        weight: 1
+      - path: Body Rig/Back IK .L
+        weight: 1
+      - path: Body Rig/Back IK .L/Back IK .L_end
+        weight: 1
+      - path: Body Rig/Back IK .R
+        weight: 1
+      - path: Body Rig/Back IK .R/Back IK .R_end
+        weight: 1
+      - path: Body Rig/Front IK .L
+        weight: 1
+      - path: Body Rig/Front IK .L/Front IK .L_end
+        weight: 1
+      - path: Body Rig/Front IK .R
+        weight: 1
+      - path: Body Rig/Front IK .R/Front IK .R_end
+        weight: 1
+      - path: Body Rig/Head 1
+        weight: 1
+      - path: Body Rig/Head 1/Ear L
+        weight: 1
+      - path: Body Rig/Head 1/Ear L/Ear L_end
+        weight: 1
+      - path: Body Rig/Head 1/Ear R
+        weight: 1
+      - path: Body Rig/Head 1/Ear R/Ear R_end
+        weight: 1
+      - path: Body Rig/Joint L
+        weight: 1
+      - path: Body Rig/Joint L/Joint L_end
+        weight: 1
+      - path: Body Rig/Joint R
+        weight: 1
+      - path: Body Rig/Joint R/Joint R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control/Eye.L
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control/Eye.L/Eye.L_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control/Eye.R
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control/Eye.R/Eye.R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control/Eyebrow.L
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control/Eyebrow.L/Eyebrow.L_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control/Eyebrow.R
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control/Eyebrow.R/Eyebrow.R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control/Mouth
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control/Mouth/Mouth_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control/Nose
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control/Nose/Nose_end
+        weight: 1
+      - path: Body Rig/Main Eye Control.001
+        weight: 1
+      - path: Body Rig/Main Eye Control.001/Main Eye Control.001_end
+        weight: 1
+      - path: Body Rig/Neck 1
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso/Lower Torso
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso/Lower Torso/Lower Torso_end
+        weight: 1
+      - path: Body Rig/Tail 1
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3/Tail 4
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3/Tail 4/Tail 4_end
+        weight: 1
+      - path: Body Rig/Upper B Leg .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L/Back Foot .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L/Back Foot .L/Back Foot .L_end
+        weight: 1
+      - path: Body Rig/Upper B Leg .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R/Back Foot .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R/Back Foot .R/Back Foot .R_end
+        weight: 1
+      - path: Body Rig/Upper F Leg .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L/Front Foot .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L/Front Foot .L/Front Foot .L_end
+        weight: 1
+      - path: Body Rig/Upper F Leg .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R/Front Foot .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R/Front Foot .R/Front Foot .R_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Ears
+        weight: 1
+      - path: Eyeball.L
+        weight: 1
+      - path: Eyeball.R
+        weight: 1
+      - path: Eyelid.L
+        weight: 1
+      - path: Eyelid.R
+        weight: 1
+      - path: Front Legs
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Body Rig|Lay Down
+      takeName: Body Rig|Lay Down
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back Legs
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body Rig
+        weight: 1
+      - path: Body Rig/Back IK .L
+        weight: 1
+      - path: Body Rig/Back IK .L/Back IK .L_end
+        weight: 1
+      - path: Body Rig/Back IK .R
+        weight: 1
+      - path: Body Rig/Back IK .R/Back IK .R_end
+        weight: 1
+      - path: Body Rig/Front IK .L
+        weight: 1
+      - path: Body Rig/Front IK .L/Front IK .L_end
+        weight: 1
+      - path: Body Rig/Front IK .R
+        weight: 1
+      - path: Body Rig/Front IK .R/Front IK .R_end
+        weight: 1
+      - path: Body Rig/Head 1
+        weight: 1
+      - path: Body Rig/Head 1/Ear L
+        weight: 1
+      - path: Body Rig/Head 1/Ear L/Ear L_end
+        weight: 1
+      - path: Body Rig/Head 1/Ear R
+        weight: 1
+      - path: Body Rig/Head 1/Ear R/Ear R_end
+        weight: 1
+      - path: Body Rig/Joint L
+        weight: 1
+      - path: Body Rig/Joint L/Joint L_end
+        weight: 1
+      - path: Body Rig/Joint R
+        weight: 1
+      - path: Body Rig/Joint R/Joint R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control/Eye.L
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control/Eye.L/Eye.L_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control/Eye.R
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control/Eye.R/Eye.R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control/Eyebrow.L
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control/Eyebrow.L/Eyebrow.L_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control/Eyebrow.R
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control/Eyebrow.R/Eyebrow.R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control/Mouth
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control/Mouth/Mouth_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control/Nose
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control/Nose/Nose_end
+        weight: 1
+      - path: Body Rig/Main Eye Control.001
+        weight: 1
+      - path: Body Rig/Main Eye Control.001/Main Eye Control.001_end
+        weight: 1
+      - path: Body Rig/Neck 1
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso/Lower Torso
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso/Lower Torso/Lower Torso_end
+        weight: 1
+      - path: Body Rig/Tail 1
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3/Tail 4
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3/Tail 4/Tail 4_end
+        weight: 1
+      - path: Body Rig/Upper B Leg .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L/Back Foot .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L/Back Foot .L/Back Foot .L_end
+        weight: 1
+      - path: Body Rig/Upper B Leg .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R/Back Foot .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R/Back Foot .R/Back Foot .R_end
+        weight: 1
+      - path: Body Rig/Upper F Leg .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L/Front Foot .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L/Front Foot .L/Front Foot .L_end
+        weight: 1
+      - path: Body Rig/Upper F Leg .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R/Front Foot .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R/Front Foot .R/Front Foot .R_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Ears
+        weight: 1
+      - path: Eyeball.L
+        weight: 1
+      - path: Eyeball.R
+        weight: 1
+      - path: Eyelid.L
+        weight: 1
+      - path: Eyelid.R
+        weight: 1
+      - path: Front Legs
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Body Rig|Pounce
+      takeName: Body Rig|Pounce
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back Legs
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body Rig
+        weight: 1
+      - path: Body Rig/Back IK .L
+        weight: 1
+      - path: Body Rig/Back IK .L/Back IK .L_end
+        weight: 1
+      - path: Body Rig/Back IK .R
+        weight: 1
+      - path: Body Rig/Back IK .R/Back IK .R_end
+        weight: 1
+      - path: Body Rig/Front IK .L
+        weight: 1
+      - path: Body Rig/Front IK .L/Front IK .L_end
+        weight: 1
+      - path: Body Rig/Front IK .R
+        weight: 1
+      - path: Body Rig/Front IK .R/Front IK .R_end
+        weight: 1
+      - path: Body Rig/Head 1
+        weight: 1
+      - path: Body Rig/Head 1/Ear L
+        weight: 1
+      - path: Body Rig/Head 1/Ear L/Ear L_end
+        weight: 1
+      - path: Body Rig/Head 1/Ear R
+        weight: 1
+      - path: Body Rig/Head 1/Ear R/Ear R_end
+        weight: 1
+      - path: Body Rig/Joint L
+        weight: 1
+      - path: Body Rig/Joint L/Joint L_end
+        weight: 1
+      - path: Body Rig/Joint R
+        weight: 1
+      - path: Body Rig/Joint R/Joint R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control/Eye.L
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control/Eye.L/Eye.L_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control/Eye.R
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control/Eye.R/Eye.R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control/Eyebrow.L
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control/Eyebrow.L/Eyebrow.L_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control/Eyebrow.R
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control/Eyebrow.R/Eyebrow.R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control/Mouth
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control/Mouth/Mouth_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control/Nose
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control/Nose/Nose_end
+        weight: 1
+      - path: Body Rig/Main Eye Control.001
+        weight: 1
+      - path: Body Rig/Main Eye Control.001/Main Eye Control.001_end
+        weight: 1
+      - path: Body Rig/Neck 1
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso/Lower Torso
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso/Lower Torso/Lower Torso_end
+        weight: 1
+      - path: Body Rig/Tail 1
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3/Tail 4
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3/Tail 4/Tail 4_end
+        weight: 1
+      - path: Body Rig/Upper B Leg .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L/Back Foot .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L/Back Foot .L/Back Foot .L_end
+        weight: 1
+      - path: Body Rig/Upper B Leg .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R/Back Foot .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R/Back Foot .R/Back Foot .R_end
+        weight: 1
+      - path: Body Rig/Upper F Leg .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L/Front Foot .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L/Front Foot .L/Front Foot .L_end
+        weight: 1
+      - path: Body Rig/Upper F Leg .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R/Front Foot .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R/Front Foot .R/Front Foot .R_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Ears
+        weight: 1
+      - path: Eyeball.L
+        weight: 1
+      - path: Eyeball.R
+        weight: 1
+      - path: Eyelid.L
+        weight: 1
+      - path: Eyelid.R
+        weight: 1
+      - path: Front Legs
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Body Rig|Run
+      takeName: Body Rig|Run
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back Legs
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body Rig
+        weight: 1
+      - path: Body Rig/Back IK .L
+        weight: 1
+      - path: Body Rig/Back IK .L/Back IK .L_end
+        weight: 1
+      - path: Body Rig/Back IK .R
+        weight: 1
+      - path: Body Rig/Back IK .R/Back IK .R_end
+        weight: 1
+      - path: Body Rig/Front IK .L
+        weight: 1
+      - path: Body Rig/Front IK .L/Front IK .L_end
+        weight: 1
+      - path: Body Rig/Front IK .R
+        weight: 1
+      - path: Body Rig/Front IK .R/Front IK .R_end
+        weight: 1
+      - path: Body Rig/Head 1
+        weight: 1
+      - path: Body Rig/Head 1/Ear L
+        weight: 1
+      - path: Body Rig/Head 1/Ear L/Ear L_end
+        weight: 1
+      - path: Body Rig/Head 1/Ear R
+        weight: 1
+      - path: Body Rig/Head 1/Ear R/Ear R_end
+        weight: 1
+      - path: Body Rig/Joint L
+        weight: 1
+      - path: Body Rig/Joint L/Joint L_end
+        weight: 1
+      - path: Body Rig/Joint R
+        weight: 1
+      - path: Body Rig/Joint R/Joint R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control/Eye.L
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control/Eye.L/Eye.L_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control/Eye.R
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control/Eye.R/Eye.R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control/Eyebrow.L
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control/Eyebrow.L/Eyebrow.L_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control/Eyebrow.R
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control/Eyebrow.R/Eyebrow.R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control/Mouth
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control/Mouth/Mouth_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control/Nose
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control/Nose/Nose_end
+        weight: 1
+      - path: Body Rig/Main Eye Control.001
+        weight: 1
+      - path: Body Rig/Main Eye Control.001/Main Eye Control.001_end
+        weight: 1
+      - path: Body Rig/Neck 1
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso/Lower Torso
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso/Lower Torso/Lower Torso_end
+        weight: 1
+      - path: Body Rig/Tail 1
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3/Tail 4
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3/Tail 4/Tail 4_end
+        weight: 1
+      - path: Body Rig/Upper B Leg .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L/Back Foot .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L/Back Foot .L/Back Foot .L_end
+        weight: 1
+      - path: Body Rig/Upper B Leg .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R/Back Foot .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R/Back Foot .R/Back Foot .R_end
+        weight: 1
+      - path: Body Rig/Upper F Leg .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L/Front Foot .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L/Front Foot .L/Front Foot .L_end
+        weight: 1
+      - path: Body Rig/Upper F Leg .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R/Front Foot .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R/Front Foot .R/Front Foot .R_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Ears
+        weight: 1
+      - path: Eyeball.L
+        weight: 1
+      - path: Eyeball.R
+        weight: 1
+      - path: Eyelid.L
+        weight: 1
+      - path: Eyelid.R
+        weight: 1
+      - path: Front Legs
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Body Rig|Running Jump
+      takeName: Body Rig|Running Jump
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back Legs
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body Rig
+        weight: 1
+      - path: Body Rig/Back IK .L
+        weight: 1
+      - path: Body Rig/Back IK .L/Back IK .L_end
+        weight: 1
+      - path: Body Rig/Back IK .R
+        weight: 1
+      - path: Body Rig/Back IK .R/Back IK .R_end
+        weight: 1
+      - path: Body Rig/Front IK .L
+        weight: 1
+      - path: Body Rig/Front IK .L/Front IK .L_end
+        weight: 1
+      - path: Body Rig/Front IK .R
+        weight: 1
+      - path: Body Rig/Front IK .R/Front IK .R_end
+        weight: 1
+      - path: Body Rig/Head 1
+        weight: 1
+      - path: Body Rig/Head 1/Ear L
+        weight: 1
+      - path: Body Rig/Head 1/Ear L/Ear L_end
+        weight: 1
+      - path: Body Rig/Head 1/Ear R
+        weight: 1
+      - path: Body Rig/Head 1/Ear R/Ear R_end
+        weight: 1
+      - path: Body Rig/Joint L
+        weight: 1
+      - path: Body Rig/Joint L/Joint L_end
+        weight: 1
+      - path: Body Rig/Joint R
+        weight: 1
+      - path: Body Rig/Joint R/Joint R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control/Eye.L
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control/Eye.L/Eye.L_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control/Eye.R
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control/Eye.R/Eye.R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control/Eyebrow.L
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control/Eyebrow.L/Eyebrow.L_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control/Eyebrow.R
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control/Eyebrow.R/Eyebrow.R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control/Mouth
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control/Mouth/Mouth_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control/Nose
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control/Nose/Nose_end
+        weight: 1
+      - path: Body Rig/Main Eye Control.001
+        weight: 1
+      - path: Body Rig/Main Eye Control.001/Main Eye Control.001_end
+        weight: 1
+      - path: Body Rig/Neck 1
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso/Lower Torso
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso/Lower Torso/Lower Torso_end
+        weight: 1
+      - path: Body Rig/Tail 1
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3/Tail 4
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3/Tail 4/Tail 4_end
+        weight: 1
+      - path: Body Rig/Upper B Leg .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L/Back Foot .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L/Back Foot .L/Back Foot .L_end
+        weight: 1
+      - path: Body Rig/Upper B Leg .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R/Back Foot .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R/Back Foot .R/Back Foot .R_end
+        weight: 1
+      - path: Body Rig/Upper F Leg .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L/Front Foot .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L/Front Foot .L/Front Foot .L_end
+        weight: 1
+      - path: Body Rig/Upper F Leg .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R/Front Foot .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R/Front Foot .R/Front Foot .R_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Ears
+        weight: 1
+      - path: Eyeball.L
+        weight: 1
+      - path: Eyeball.R
+        weight: 1
+      - path: Eyelid.L
+        weight: 1
+      - path: Eyelid.R
+        weight: 1
+      - path: Front Legs
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Body Rig|Sit Down
+      takeName: Body Rig|Sit Down
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back Legs
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body Rig
+        weight: 1
+      - path: Body Rig/Back IK .L
+        weight: 1
+      - path: Body Rig/Back IK .L/Back IK .L_end
+        weight: 1
+      - path: Body Rig/Back IK .R
+        weight: 1
+      - path: Body Rig/Back IK .R/Back IK .R_end
+        weight: 1
+      - path: Body Rig/Front IK .L
+        weight: 1
+      - path: Body Rig/Front IK .L/Front IK .L_end
+        weight: 1
+      - path: Body Rig/Front IK .R
+        weight: 1
+      - path: Body Rig/Front IK .R/Front IK .R_end
+        weight: 1
+      - path: Body Rig/Head 1
+        weight: 1
+      - path: Body Rig/Head 1/Ear L
+        weight: 1
+      - path: Body Rig/Head 1/Ear L/Ear L_end
+        weight: 1
+      - path: Body Rig/Head 1/Ear R
+        weight: 1
+      - path: Body Rig/Head 1/Ear R/Ear R_end
+        weight: 1
+      - path: Body Rig/Joint L
+        weight: 1
+      - path: Body Rig/Joint L/Joint L_end
+        weight: 1
+      - path: Body Rig/Joint R
+        weight: 1
+      - path: Body Rig/Joint R/Joint R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control/Eye.L
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control/Eye.L/Eye.L_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control/Eye.R
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control/Eye.R/Eye.R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control/Eyebrow.L
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control/Eyebrow.L/Eyebrow.L_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control/Eyebrow.R
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control/Eyebrow.R/Eyebrow.R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control/Mouth
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control/Mouth/Mouth_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control/Nose
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control/Nose/Nose_end
+        weight: 1
+      - path: Body Rig/Main Eye Control.001
+        weight: 1
+      - path: Body Rig/Main Eye Control.001/Main Eye Control.001_end
+        weight: 1
+      - path: Body Rig/Neck 1
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso/Lower Torso
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso/Lower Torso/Lower Torso_end
+        weight: 1
+      - path: Body Rig/Tail 1
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3/Tail 4
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3/Tail 4/Tail 4_end
+        weight: 1
+      - path: Body Rig/Upper B Leg .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L/Back Foot .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L/Back Foot .L/Back Foot .L_end
+        weight: 1
+      - path: Body Rig/Upper B Leg .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R/Back Foot .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R/Back Foot .R/Back Foot .R_end
+        weight: 1
+      - path: Body Rig/Upper F Leg .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L/Front Foot .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L/Front Foot .L/Front Foot .L_end
+        weight: 1
+      - path: Body Rig/Upper F Leg .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R/Front Foot .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R/Front Foot .R/Front Foot .R_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Ears
+        weight: 1
+      - path: Eyeball.L
+        weight: 1
+      - path: Eyeball.R
+        weight: 1
+      - path: Eyelid.L
+        weight: 1
+      - path: Eyelid.R
+        weight: 1
+      - path: Front Legs
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Body Rig|Sit Down Idle
+      takeName: Body Rig|Sit Down Idle
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back Legs
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body Rig
+        weight: 1
+      - path: Body Rig/Back IK .L
+        weight: 1
+      - path: Body Rig/Back IK .L/Back IK .L_end
+        weight: 1
+      - path: Body Rig/Back IK .R
+        weight: 1
+      - path: Body Rig/Back IK .R/Back IK .R_end
+        weight: 1
+      - path: Body Rig/Front IK .L
+        weight: 1
+      - path: Body Rig/Front IK .L/Front IK .L_end
+        weight: 1
+      - path: Body Rig/Front IK .R
+        weight: 1
+      - path: Body Rig/Front IK .R/Front IK .R_end
+        weight: 1
+      - path: Body Rig/Head 1
+        weight: 1
+      - path: Body Rig/Head 1/Ear L
+        weight: 1
+      - path: Body Rig/Head 1/Ear L/Ear L_end
+        weight: 1
+      - path: Body Rig/Head 1/Ear R
+        weight: 1
+      - path: Body Rig/Head 1/Ear R/Ear R_end
+        weight: 1
+      - path: Body Rig/Joint L
+        weight: 1
+      - path: Body Rig/Joint L/Joint L_end
+        weight: 1
+      - path: Body Rig/Joint R
+        weight: 1
+      - path: Body Rig/Joint R/Joint R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control/Eye.L
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control/Eye.L/Eye.L_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control/Eye.R
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control/Eye.R/Eye.R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control/Eyebrow.L
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control/Eyebrow.L/Eyebrow.L_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control/Eyebrow.R
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control/Eyebrow.R/Eyebrow.R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control/Mouth
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control/Mouth/Mouth_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control/Nose
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control/Nose/Nose_end
+        weight: 1
+      - path: Body Rig/Main Eye Control.001
+        weight: 1
+      - path: Body Rig/Main Eye Control.001/Main Eye Control.001_end
+        weight: 1
+      - path: Body Rig/Neck 1
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso/Lower Torso
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso/Lower Torso/Lower Torso_end
+        weight: 1
+      - path: Body Rig/Tail 1
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3/Tail 4
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3/Tail 4/Tail 4_end
+        weight: 1
+      - path: Body Rig/Upper B Leg .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L/Back Foot .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L/Back Foot .L/Back Foot .L_end
+        weight: 1
+      - path: Body Rig/Upper B Leg .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R/Back Foot .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R/Back Foot .R/Back Foot .R_end
+        weight: 1
+      - path: Body Rig/Upper F Leg .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L/Front Foot .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L/Front Foot .L/Front Foot .L_end
+        weight: 1
+      - path: Body Rig/Upper F Leg .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R/Front Foot .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R/Front Foot .R/Front Foot .R_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Ears
+        weight: 1
+      - path: Eyeball.L
+        weight: 1
+      - path: Eyeball.R
+        weight: 1
+      - path: Eyelid.L
+        weight: 1
+      - path: Eyelid.R
+        weight: 1
+      - path: Front Legs
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Body Rig|Sprint
+      takeName: Body Rig|Sprint
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back Legs
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body Rig
+        weight: 1
+      - path: Body Rig/Back IK .L
+        weight: 1
+      - path: Body Rig/Back IK .L/Back IK .L_end
+        weight: 1
+      - path: Body Rig/Back IK .R
+        weight: 1
+      - path: Body Rig/Back IK .R/Back IK .R_end
+        weight: 1
+      - path: Body Rig/Front IK .L
+        weight: 1
+      - path: Body Rig/Front IK .L/Front IK .L_end
+        weight: 1
+      - path: Body Rig/Front IK .R
+        weight: 1
+      - path: Body Rig/Front IK .R/Front IK .R_end
+        weight: 1
+      - path: Body Rig/Head 1
+        weight: 1
+      - path: Body Rig/Head 1/Ear L
+        weight: 1
+      - path: Body Rig/Head 1/Ear L/Ear L_end
+        weight: 1
+      - path: Body Rig/Head 1/Ear R
+        weight: 1
+      - path: Body Rig/Head 1/Ear R/Ear R_end
+        weight: 1
+      - path: Body Rig/Joint L
+        weight: 1
+      - path: Body Rig/Joint L/Joint L_end
+        weight: 1
+      - path: Body Rig/Joint R
+        weight: 1
+      - path: Body Rig/Joint R/Joint R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control/Eye.L
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control/Eye.L/Eye.L_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control/Eye.R
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control/Eye.R/Eye.R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control/Eyebrow.L
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control/Eyebrow.L/Eyebrow.L_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control/Eyebrow.R
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control/Eyebrow.R/Eyebrow.R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control/Mouth
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control/Mouth/Mouth_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control/Nose
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control/Nose/Nose_end
+        weight: 1
+      - path: Body Rig/Main Eye Control.001
+        weight: 1
+      - path: Body Rig/Main Eye Control.001/Main Eye Control.001_end
+        weight: 1
+      - path: Body Rig/Neck 1
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso/Lower Torso
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso/Lower Torso/Lower Torso_end
+        weight: 1
+      - path: Body Rig/Tail 1
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3/Tail 4
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3/Tail 4/Tail 4_end
+        weight: 1
+      - path: Body Rig/Upper B Leg .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L/Back Foot .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L/Back Foot .L/Back Foot .L_end
+        weight: 1
+      - path: Body Rig/Upper B Leg .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R/Back Foot .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R/Back Foot .R/Back Foot .R_end
+        weight: 1
+      - path: Body Rig/Upper F Leg .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L/Front Foot .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L/Front Foot .L/Front Foot .L_end
+        weight: 1
+      - path: Body Rig/Upper F Leg .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R/Front Foot .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R/Front Foot .R/Front Foot .R_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Ears
+        weight: 1
+      - path: Eyeball.L
+        weight: 1
+      - path: Eyeball.R
+        weight: 1
+      - path: Eyelid.L
+        weight: 1
+      - path: Eyelid.R
+        weight: 1
+      - path: Front Legs
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Body Rig|Stalk
+      takeName: Body Rig|Stalk
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back Legs
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body Rig
+        weight: 1
+      - path: Body Rig/Back IK .L
+        weight: 1
+      - path: Body Rig/Back IK .L/Back IK .L_end
+        weight: 1
+      - path: Body Rig/Back IK .R
+        weight: 1
+      - path: Body Rig/Back IK .R/Back IK .R_end
+        weight: 1
+      - path: Body Rig/Front IK .L
+        weight: 1
+      - path: Body Rig/Front IK .L/Front IK .L_end
+        weight: 1
+      - path: Body Rig/Front IK .R
+        weight: 1
+      - path: Body Rig/Front IK .R/Front IK .R_end
+        weight: 1
+      - path: Body Rig/Head 1
+        weight: 1
+      - path: Body Rig/Head 1/Ear L
+        weight: 1
+      - path: Body Rig/Head 1/Ear L/Ear L_end
+        weight: 1
+      - path: Body Rig/Head 1/Ear R
+        weight: 1
+      - path: Body Rig/Head 1/Ear R/Ear R_end
+        weight: 1
+      - path: Body Rig/Joint L
+        weight: 1
+      - path: Body Rig/Joint L/Joint L_end
+        weight: 1
+      - path: Body Rig/Joint R
+        weight: 1
+      - path: Body Rig/Joint R/Joint R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control/Eye.L
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control/Eye.L/Eye.L_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control/Eye.R
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control/Eye.R/Eye.R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control/Eyebrow.L
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control/Eyebrow.L/Eyebrow.L_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control/Eyebrow.R
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control/Eyebrow.R/Eyebrow.R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control/Mouth
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control/Mouth/Mouth_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control/Nose
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control/Nose/Nose_end
+        weight: 1
+      - path: Body Rig/Main Eye Control.001
+        weight: 1
+      - path: Body Rig/Main Eye Control.001/Main Eye Control.001_end
+        weight: 1
+      - path: Body Rig/Neck 1
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso/Lower Torso
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso/Lower Torso/Lower Torso_end
+        weight: 1
+      - path: Body Rig/Tail 1
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3/Tail 4
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3/Tail 4/Tail 4_end
+        weight: 1
+      - path: Body Rig/Upper B Leg .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L/Back Foot .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L/Back Foot .L/Back Foot .L_end
+        weight: 1
+      - path: Body Rig/Upper B Leg .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R/Back Foot .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R/Back Foot .R/Back Foot .R_end
+        weight: 1
+      - path: Body Rig/Upper F Leg .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L/Front Foot .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L/Front Foot .L/Front Foot .L_end
+        weight: 1
+      - path: Body Rig/Upper F Leg .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R/Front Foot .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R/Front Foot .R/Front Foot .R_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Ears
+        weight: 1
+      - path: Eyeball.L
+        weight: 1
+      - path: Eyeball.R
+        weight: 1
+      - path: Eyelid.L
+        weight: 1
+      - path: Eyelid.R
+        weight: 1
+      - path: Front Legs
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Body Rig|Static Backup
+      takeName: Body Rig|Static Backup
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back Legs
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body Rig
+        weight: 1
+      - path: Body Rig/Back IK .L
+        weight: 1
+      - path: Body Rig/Back IK .L/Back IK .L_end
+        weight: 1
+      - path: Body Rig/Back IK .R
+        weight: 1
+      - path: Body Rig/Back IK .R/Back IK .R_end
+        weight: 1
+      - path: Body Rig/Front IK .L
+        weight: 1
+      - path: Body Rig/Front IK .L/Front IK .L_end
+        weight: 1
+      - path: Body Rig/Front IK .R
+        weight: 1
+      - path: Body Rig/Front IK .R/Front IK .R_end
+        weight: 1
+      - path: Body Rig/Head 1
+        weight: 1
+      - path: Body Rig/Head 1/Ear L
+        weight: 1
+      - path: Body Rig/Head 1/Ear L/Ear L_end
+        weight: 1
+      - path: Body Rig/Head 1/Ear R
+        weight: 1
+      - path: Body Rig/Head 1/Ear R/Ear R_end
+        weight: 1
+      - path: Body Rig/Joint L
+        weight: 1
+      - path: Body Rig/Joint L/Joint L_end
+        weight: 1
+      - path: Body Rig/Joint R
+        weight: 1
+      - path: Body Rig/Joint R/Joint R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control/Eye.L
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control/Eye.L/Eye.L_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control/Eye.R
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control/Eye.R/Eye.R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control/Eyebrow.L
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control/Eyebrow.L/Eyebrow.L_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control/Eyebrow.R
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control/Eyebrow.R/Eyebrow.R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control/Mouth
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control/Mouth/Mouth_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control/Nose
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control/Nose/Nose_end
+        weight: 1
+      - path: Body Rig/Main Eye Control.001
+        weight: 1
+      - path: Body Rig/Main Eye Control.001/Main Eye Control.001_end
+        weight: 1
+      - path: Body Rig/Neck 1
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso/Lower Torso
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso/Lower Torso/Lower Torso_end
+        weight: 1
+      - path: Body Rig/Tail 1
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3/Tail 4
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3/Tail 4/Tail 4_end
+        weight: 1
+      - path: Body Rig/Upper B Leg .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L/Back Foot .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L/Back Foot .L/Back Foot .L_end
+        weight: 1
+      - path: Body Rig/Upper B Leg .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R/Back Foot .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R/Back Foot .R/Back Foot .R_end
+        weight: 1
+      - path: Body Rig/Upper F Leg .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L/Front Foot .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L/Front Foot .L/Front Foot .L_end
+        weight: 1
+      - path: Body Rig/Upper F Leg .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R/Front Foot .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R/Front Foot .R/Front Foot .R_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Ears
+        weight: 1
+      - path: Eyeball.L
+        weight: 1
+      - path: Eyeball.R
+        weight: 1
+      - path: Eyelid.L
+        weight: 1
+      - path: Eyelid.R
+        weight: 1
+      - path: Front Legs
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Body Rig|Walk
+      takeName: Body Rig|Walk
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back Legs
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body Rig
+        weight: 1
+      - path: Body Rig/Back IK .L
+        weight: 1
+      - path: Body Rig/Back IK .L/Back IK .L_end
+        weight: 1
+      - path: Body Rig/Back IK .R
+        weight: 1
+      - path: Body Rig/Back IK .R/Back IK .R_end
+        weight: 1
+      - path: Body Rig/Front IK .L
+        weight: 1
+      - path: Body Rig/Front IK .L/Front IK .L_end
+        weight: 1
+      - path: Body Rig/Front IK .R
+        weight: 1
+      - path: Body Rig/Front IK .R/Front IK .R_end
+        weight: 1
+      - path: Body Rig/Head 1
+        weight: 1
+      - path: Body Rig/Head 1/Ear L
+        weight: 1
+      - path: Body Rig/Head 1/Ear L/Ear L_end
+        weight: 1
+      - path: Body Rig/Head 1/Ear R
+        weight: 1
+      - path: Body Rig/Head 1/Ear R/Ear R_end
+        weight: 1
+      - path: Body Rig/Joint L
+        weight: 1
+      - path: Body Rig/Joint L/Joint L_end
+        weight: 1
+      - path: Body Rig/Joint R
+        weight: 1
+      - path: Body Rig/Joint R/Joint R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control/Eye.L
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control/Eye.L/Eye.L_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control/Eye.R
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control/Eye.R/Eye.R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control/Eyebrow.L
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control/Eyebrow.L/Eyebrow.L_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control/Eyebrow.R
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control/Eyebrow.R/Eyebrow.R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control/Mouth
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control/Mouth/Mouth_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control/Nose
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control/Nose/Nose_end
+        weight: 1
+      - path: Body Rig/Main Eye Control.001
+        weight: 1
+      - path: Body Rig/Main Eye Control.001/Main Eye Control.001_end
+        weight: 1
+      - path: Body Rig/Neck 1
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso/Lower Torso
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso/Lower Torso/Lower Torso_end
+        weight: 1
+      - path: Body Rig/Tail 1
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3/Tail 4
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3/Tail 4/Tail 4_end
+        weight: 1
+      - path: Body Rig/Upper B Leg .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L/Back Foot .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L/Back Foot .L/Back Foot .L_end
+        weight: 1
+      - path: Body Rig/Upper B Leg .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R/Back Foot .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R/Back Foot .R/Back Foot .R_end
+        weight: 1
+      - path: Body Rig/Upper F Leg .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L/Front Foot .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L/Front Foot .L/Front Foot .L_end
+        weight: 1
+      - path: Body Rig/Upper F Leg .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R/Front Foot .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R/Front Foot .R/Front Foot .R_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Ears
+        weight: 1
+      - path: Eyeball.L
+        weight: 1
+      - path: Eyeball.R
+        weight: 1
+      - path: Eyelid.L
+        weight: 1
+      - path: Eyelid.R
+        weight: 1
+      - path: Front Legs
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Eyelid.L|Idle
+      takeName: Eyelid.L|Idle
+      firstFrame: 0
+      lastFrame: 301
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back Legs
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body Rig
+        weight: 1
+      - path: Body Rig/Back IK .L
+        weight: 1
+      - path: Body Rig/Back IK .L/Back IK .L_end
+        weight: 1
+      - path: Body Rig/Back IK .R
+        weight: 1
+      - path: Body Rig/Back IK .R/Back IK .R_end
+        weight: 1
+      - path: Body Rig/Front IK .L
+        weight: 1
+      - path: Body Rig/Front IK .L/Front IK .L_end
+        weight: 1
+      - path: Body Rig/Front IK .R
+        weight: 1
+      - path: Body Rig/Front IK .R/Front IK .R_end
+        weight: 1
+      - path: Body Rig/Head 1
+        weight: 1
+      - path: Body Rig/Head 1/Ear L
+        weight: 1
+      - path: Body Rig/Head 1/Ear L/Ear L_end
+        weight: 1
+      - path: Body Rig/Head 1/Ear R
+        weight: 1
+      - path: Body Rig/Head 1/Ear R/Ear R_end
+        weight: 1
+      - path: Body Rig/Joint L
+        weight: 1
+      - path: Body Rig/Joint L/Joint L_end
+        weight: 1
+      - path: Body Rig/Joint R
+        weight: 1
+      - path: Body Rig/Joint R/Joint R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control/Eye.L
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control/Eye.L/Eye.L_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control/Eye.R
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control/Eye.R/Eye.R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control/Eyebrow.L
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control/Eyebrow.L/Eyebrow.L_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control/Eyebrow.R
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control/Eyebrow.R/Eyebrow.R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control/Mouth
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control/Mouth/Mouth_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control/Nose
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control/Nose/Nose_end
+        weight: 1
+      - path: Body Rig/Main Eye Control.001
+        weight: 1
+      - path: Body Rig/Main Eye Control.001/Main Eye Control.001_end
+        weight: 1
+      - path: Body Rig/Neck 1
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso/Lower Torso
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso/Lower Torso/Lower Torso_end
+        weight: 1
+      - path: Body Rig/Tail 1
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3/Tail 4
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3/Tail 4/Tail 4_end
+        weight: 1
+      - path: Body Rig/Upper B Leg .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L/Back Foot .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L/Back Foot .L/Back Foot .L_end
+        weight: 1
+      - path: Body Rig/Upper B Leg .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R/Back Foot .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R/Back Foot .R/Back Foot .R_end
+        weight: 1
+      - path: Body Rig/Upper F Leg .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L/Front Foot .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L/Front Foot .L/Front Foot .L_end
+        weight: 1
+      - path: Body Rig/Upper F Leg .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R/Front Foot .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R/Front Foot .R/Front Foot .R_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Ears
+        weight: 1
+      - path: Eyeball.L
+        weight: 1
+      - path: Eyeball.R
+        weight: 1
+      - path: Eyelid.L
+        weight: 1
+      - path: Eyelid.R
+        weight: 1
+      - path: Front Legs
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Eyelid.R|Death
+      takeName: Eyelid.R|Death
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back Legs
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body Rig
+        weight: 1
+      - path: Body Rig/Back IK .L
+        weight: 1
+      - path: Body Rig/Back IK .L/Back IK .L_end
+        weight: 1
+      - path: Body Rig/Back IK .R
+        weight: 1
+      - path: Body Rig/Back IK .R/Back IK .R_end
+        weight: 1
+      - path: Body Rig/Front IK .L
+        weight: 1
+      - path: Body Rig/Front IK .L/Front IK .L_end
+        weight: 1
+      - path: Body Rig/Front IK .R
+        weight: 1
+      - path: Body Rig/Front IK .R/Front IK .R_end
+        weight: 1
+      - path: Body Rig/Head 1
+        weight: 1
+      - path: Body Rig/Head 1/Ear L
+        weight: 1
+      - path: Body Rig/Head 1/Ear L/Ear L_end
+        weight: 1
+      - path: Body Rig/Head 1/Ear R
+        weight: 1
+      - path: Body Rig/Head 1/Ear R/Ear R_end
+        weight: 1
+      - path: Body Rig/Joint L
+        weight: 1
+      - path: Body Rig/Joint L/Joint L_end
+        weight: 1
+      - path: Body Rig/Joint R
+        weight: 1
+      - path: Body Rig/Joint R/Joint R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control/Eye.L
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.L Control/Eye.L/Eye.L_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control/Eye.R
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eye.R Control/Eye.R/Eye.R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control/Eyebrow.L
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.L Control/Eyebrow.L/Eyebrow.L_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control/Eyebrow.R
+        weight: 1
+      - path: Body Rig/Main Eye Control/Eyebrow.R Control/Eyebrow.R/Eyebrow.R_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control/Mouth
+        weight: 1
+      - path: Body Rig/Main Eye Control/Mouth Control/Mouth/Mouth_end
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control/Nose
+        weight: 1
+      - path: Body Rig/Main Eye Control/Nose Control/Nose/Nose_end
+        weight: 1
+      - path: Body Rig/Main Eye Control.001
+        weight: 1
+      - path: Body Rig/Main Eye Control.001/Main Eye Control.001_end
+        weight: 1
+      - path: Body Rig/Neck 1
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso/Lower Torso
+        weight: 1
+      - path: Body Rig/Neck 1/Upper Torso/Lower Torso/Lower Torso_end
+        weight: 1
+      - path: Body Rig/Tail 1
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3/Tail 4
+        weight: 1
+      - path: Body Rig/Tail 1/Tail 2/Tail 3/Tail 4/Tail 4_end
+        weight: 1
+      - path: Body Rig/Upper B Leg .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L/Back Foot .L
+        weight: 1
+      - path: Body Rig/Upper B Leg .L/Lower B Leg .L/Back Foot .L/Back Foot .L_end
+        weight: 1
+      - path: Body Rig/Upper B Leg .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R/Back Foot .R
+        weight: 1
+      - path: Body Rig/Upper B Leg .R/Lower B Leg .R/Back Foot .R/Back Foot .R_end
+        weight: 1
+      - path: Body Rig/Upper F Leg .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L/Front Foot .L
+        weight: 1
+      - path: Body Rig/Upper F Leg .L/Lower F Leg .L/Front Foot .L/Front Foot .L_end
+        weight: 1
+      - path: Body Rig/Upper F Leg .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R/Front Foot .R
+        weight: 1
+      - path: Body Rig/Upper F Leg .R/Lower F Leg .R/Front Foot .R/Front Foot .R_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Ears
+        weight: 1
+      - path: Eyeball.L
+        weight: 1
+      - path: Eyeball.R
+        weight: 1
+      - path: Eyelid.L
+        weight: 1
+      - path: Eyelid.R
+        weight: 1
+      - path: Front Legs
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
