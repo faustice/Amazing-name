@@ -1,0 +1,2070 @@
+fileFormatVersion: 2
+guid: 8fab0545f612e4be2b074629fcae4c6e
+timeCreated: 1452731980
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Back_Foot__L
+    100002: Back_Foot__R
+    100004: Back_Legs
+    100006: Body
+    100008: Body_Rig
+    100010: Cylinder
+    100012: Ear_L
+    100014: Ear_R
+    100016: Ears
+    100018: Eye_L
+    100020: Eye_L_Control
+    100022: Eye_R
+    100024: Eye_R_Control
+    100026: Eyeball_L
+    100028: Eyeball_R
+    100030: Eyebrow_L
+    100032: Eyebrow_L_Control
+    100034: Eyebrow_R
+    100036: Eyebrow_R_Control
+    100038: Eyelid_L
+    100040: Eyelid_R
+    100042: Front_Foot__L
+    100044: Front_Foot__R
+    100046: Front_Legs
+    100048: Head
+    100050: Head_0
+    100052: Lower_B_Leg__L
+    100054: Lower_B_Leg__R
+    100056: Lower_F_Leg__L
+    100058: Lower_F_Leg__R
+    100060: Lower_Torso
+    100062: Main_Eye_Control
+    100064: Mouth
+    100066: Mouth_Control
+    100068: Neck
+    100070: Neck_0
+    100072: //RootNode
+    100074: Nose
+    100076: Nose_Control
+    100078: Tail
+    100080: Tail_1
+    100082: Tail_2
+    100084: Tail_3
+    100086: Tail_4
+    100088: Upper_B_Leg__L
+    100090: Upper_B_Leg__R
+    100092: Upper_F_Leg__L
+    100094: Upper_F_Leg__R
+    100096: Upper_Torso
+    400000: Back_Foot__L
+    400002: Back_Foot__R
+    400004: Back_Legs
+    400006: Body
+    400008: Body_Rig
+    400010: Cylinder
+    400012: Ear_L
+    400014: Ear_R
+    400016: Ears
+    400018: Eye_L
+    400020: Eye_L_Control
+    400022: Eye_R
+    400024: Eye_R_Control
+    400026: Eyeball_L
+    400028: Eyeball_R
+    400030: Eyebrow_L
+    400032: Eyebrow_L_Control
+    400034: Eyebrow_R
+    400036: Eyebrow_R_Control
+    400038: Eyelid_L
+    400040: Eyelid_R
+    400042: Front_Foot__L
+    400044: Front_Foot__R
+    400046: Front_Legs
+    400048: Head
+    400050: Head_0
+    400052: Lower_B_Leg__L
+    400054: Lower_B_Leg__R
+    400056: Lower_F_Leg__L
+    400058: Lower_F_Leg__R
+    400060: Lower_Torso
+    400062: Main_Eye_Control
+    400064: Mouth
+    400066: Mouth_Control
+    400068: Neck
+    400070: Neck_0
+    400072: //RootNode
+    400074: Nose
+    400076: Nose_Control
+    400078: Tail
+    400080: Tail_1
+    400082: Tail_2
+    400084: Tail_3
+    400086: Tail_4
+    400088: Upper_B_Leg__L
+    400090: Upper_B_Leg__R
+    400092: Upper_F_Leg__L
+    400094: Upper_F_Leg__R
+    400096: Upper_Torso
+    2300000: Head
+    3300000: Head
+    4300000: Eyelid_L
+    4300002: Eyelid_R
+    4300004: Eyeball_L
+    4300006: Eyeball_R
+    4300008: Cylinder
+    4300010: Back_Legs
+    4300012: Front_Legs
+    4300014: Tail
+    4300016: Neck
+    4300018: Body
+    4300020: Ears
+    4300022: Head
+    7400000: Default Take
+    7400002: Crouch_Idle
+    7400004: Death
+    7400006: Idle
+    7400008: Jump
+    7400010: Lay_Down
+    7400012: Pounce
+    7400014: Run
+    7400016: Running_Jump
+    7400018: Sit_Down
+    7400020: Sit_Down_Idle
+    7400022: Sprint
+    7400024: Stalk
+    7400026: Static_Backup
+    7400028: Walk
+    9500000: //RootNode
+    13700000: Back_Legs
+    13700002: Body
+    13700004: Cylinder
+    13700006: Ears
+    13700008: Eyeball_L
+    13700010: Eyeball_R
+    13700012: Eyelid_L
+    13700014: Eyelid_R
+    13700016: Front_Legs
+    13700018: Neck
+    13700020: Tail
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 298
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back_Legs
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body_Rig
+        weight: 1
+      - path: Body_Rig/Head
+        weight: 1
+      - path: Body_Rig/Head_0
+        weight: 1
+      - path: Body_Rig/Head_0/Ear_L
+        weight: 1
+      - path: Body_Rig/Head_0/Ear_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_L_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_L_Control/Eye_L
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_R_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_R_Control/Eye_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_L_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_L_Control/Eyebrow_L
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_R_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_R_Control/Eyebrow_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Mouth_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Mouth_Control/Mouth
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Nose_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Nose_Control/Nose
+        weight: 1
+      - path: Body_Rig/Neck_0
+        weight: 1
+      - path: Body_Rig/Neck_0/Upper_Torso
+        weight: 1
+      - path: Body_Rig/Neck_0/Upper_Torso/Lower_Torso
+        weight: 1
+      - path: Body_Rig/Tail_1
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2/Tail_3
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2/Tail_3/Tail_4
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L/Lower_B_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L/Lower_B_Leg__L/Back_Foot__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R/Lower_B_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R/Lower_B_Leg__R/Back_Foot__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L/Lower_F_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L/Lower_F_Leg__L/Front_Foot__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R/Lower_F_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R/Lower_F_Leg__R/Front_Foot__R
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Ears
+        weight: 1
+      - path: Eyeball_L
+        weight: 1
+      - path: Eyeball_R
+        weight: 1
+      - path: Eyelid_L
+        weight: 1
+      - path: Eyelid_R
+        weight: 1
+      - path: Front_Legs
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Crouch_Idle
+      takeName: Crouch_Idle
+      firstFrame: -1
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back_Legs
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body_Rig
+        weight: 1
+      - path: Body_Rig/Head
+        weight: 1
+      - path: Body_Rig/Head_0
+        weight: 1
+      - path: Body_Rig/Head_0/Ear_L
+        weight: 1
+      - path: Body_Rig/Head_0/Ear_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_L_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_L_Control/Eye_L
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_R_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_R_Control/Eye_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_L_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_L_Control/Eyebrow_L
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_R_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_R_Control/Eyebrow_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Mouth_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Mouth_Control/Mouth
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Nose_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Nose_Control/Nose
+        weight: 1
+      - path: Body_Rig/Neck_0
+        weight: 1
+      - path: Body_Rig/Neck_0/Upper_Torso
+        weight: 1
+      - path: Body_Rig/Neck_0/Upper_Torso/Lower_Torso
+        weight: 1
+      - path: Body_Rig/Tail_1
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2/Tail_3
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2/Tail_3/Tail_4
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L/Lower_B_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L/Lower_B_Leg__L/Back_Foot__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R/Lower_B_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R/Lower_B_Leg__R/Back_Foot__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L/Lower_F_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L/Lower_F_Leg__L/Front_Foot__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R/Lower_F_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R/Lower_F_Leg__R/Front_Foot__R
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Ears
+        weight: 1
+      - path: Eyeball_L
+        weight: 1
+      - path: Eyeball_R
+        weight: 1
+      - path: Eyelid_L
+        weight: 1
+      - path: Eyelid_R
+        weight: 1
+      - path: Front_Legs
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Death
+      takeName: Death
+      firstFrame: -1
+      lastFrame: 14
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back_Legs
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body_Rig
+        weight: 1
+      - path: Body_Rig/Head
+        weight: 1
+      - path: Body_Rig/Head_0
+        weight: 1
+      - path: Body_Rig/Head_0/Ear_L
+        weight: 1
+      - path: Body_Rig/Head_0/Ear_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_L_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_L_Control/Eye_L
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_R_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_R_Control/Eye_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_L_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_L_Control/Eyebrow_L
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_R_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_R_Control/Eyebrow_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Mouth_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Mouth_Control/Mouth
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Nose_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Nose_Control/Nose
+        weight: 1
+      - path: Body_Rig/Neck_0
+        weight: 1
+      - path: Body_Rig/Neck_0/Upper_Torso
+        weight: 1
+      - path: Body_Rig/Neck_0/Upper_Torso/Lower_Torso
+        weight: 1
+      - path: Body_Rig/Tail_1
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2/Tail_3
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2/Tail_3/Tail_4
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L/Lower_B_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L/Lower_B_Leg__L/Back_Foot__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R/Lower_B_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R/Lower_B_Leg__R/Back_Foot__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L/Lower_F_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L/Lower_F_Leg__L/Front_Foot__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R/Lower_F_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R/Lower_F_Leg__R/Front_Foot__R
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Ears
+        weight: 1
+      - path: Eyeball_L
+        weight: 1
+      - path: Eyeball_R
+        weight: 1
+      - path: Eyelid_L
+        weight: 1
+      - path: Eyelid_R
+        weight: 1
+      - path: Front_Legs
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle
+      takeName: Idle
+      firstFrame: -1
+      lastFrame: 299
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back_Legs
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body_Rig
+        weight: 1
+      - path: Body_Rig/Head
+        weight: 1
+      - path: Body_Rig/Head_0
+        weight: 1
+      - path: Body_Rig/Head_0/Ear_L
+        weight: 1
+      - path: Body_Rig/Head_0/Ear_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_L_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_L_Control/Eye_L
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_R_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_R_Control/Eye_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_L_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_L_Control/Eyebrow_L
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_R_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_R_Control/Eyebrow_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Mouth_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Mouth_Control/Mouth
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Nose_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Nose_Control/Nose
+        weight: 1
+      - path: Body_Rig/Neck_0
+        weight: 1
+      - path: Body_Rig/Neck_0/Upper_Torso
+        weight: 1
+      - path: Body_Rig/Neck_0/Upper_Torso/Lower_Torso
+        weight: 1
+      - path: Body_Rig/Tail_1
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2/Tail_3
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2/Tail_3/Tail_4
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L/Lower_B_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L/Lower_B_Leg__L/Back_Foot__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R/Lower_B_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R/Lower_B_Leg__R/Back_Foot__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L/Lower_F_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L/Lower_F_Leg__L/Front_Foot__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R/Lower_F_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R/Lower_F_Leg__R/Front_Foot__R
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Ears
+        weight: 1
+      - path: Eyeball_L
+        weight: 1
+      - path: Eyeball_R
+        weight: 1
+      - path: Eyelid_L
+        weight: 1
+      - path: Eyelid_R
+        weight: 1
+      - path: Front_Legs
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Jump
+      takeName: Jump
+      firstFrame: -1
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back_Legs
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body_Rig
+        weight: 1
+      - path: Body_Rig/Head
+        weight: 1
+      - path: Body_Rig/Head_0
+        weight: 1
+      - path: Body_Rig/Head_0/Ear_L
+        weight: 1
+      - path: Body_Rig/Head_0/Ear_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_L_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_L_Control/Eye_L
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_R_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_R_Control/Eye_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_L_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_L_Control/Eyebrow_L
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_R_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_R_Control/Eyebrow_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Mouth_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Mouth_Control/Mouth
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Nose_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Nose_Control/Nose
+        weight: 1
+      - path: Body_Rig/Neck_0
+        weight: 1
+      - path: Body_Rig/Neck_0/Upper_Torso
+        weight: 1
+      - path: Body_Rig/Neck_0/Upper_Torso/Lower_Torso
+        weight: 1
+      - path: Body_Rig/Tail_1
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2/Tail_3
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2/Tail_3/Tail_4
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L/Lower_B_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L/Lower_B_Leg__L/Back_Foot__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R/Lower_B_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R/Lower_B_Leg__R/Back_Foot__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L/Lower_F_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L/Lower_F_Leg__L/Front_Foot__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R/Lower_F_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R/Lower_F_Leg__R/Front_Foot__R
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Ears
+        weight: 1
+      - path: Eyeball_L
+        weight: 1
+      - path: Eyeball_R
+        weight: 1
+      - path: Eyelid_L
+        weight: 1
+      - path: Eyelid_R
+        weight: 1
+      - path: Front_Legs
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Lay_Down
+      takeName: Lay_Down
+      firstFrame: -1
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back_Legs
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body_Rig
+        weight: 1
+      - path: Body_Rig/Head
+        weight: 1
+      - path: Body_Rig/Head_0
+        weight: 1
+      - path: Body_Rig/Head_0/Ear_L
+        weight: 1
+      - path: Body_Rig/Head_0/Ear_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_L_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_L_Control/Eye_L
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_R_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_R_Control/Eye_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_L_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_L_Control/Eyebrow_L
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_R_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_R_Control/Eyebrow_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Mouth_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Mouth_Control/Mouth
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Nose_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Nose_Control/Nose
+        weight: 1
+      - path: Body_Rig/Neck_0
+        weight: 1
+      - path: Body_Rig/Neck_0/Upper_Torso
+        weight: 1
+      - path: Body_Rig/Neck_0/Upper_Torso/Lower_Torso
+        weight: 1
+      - path: Body_Rig/Tail_1
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2/Tail_3
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2/Tail_3/Tail_4
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L/Lower_B_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L/Lower_B_Leg__L/Back_Foot__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R/Lower_B_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R/Lower_B_Leg__R/Back_Foot__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L/Lower_F_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L/Lower_F_Leg__L/Front_Foot__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R/Lower_F_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R/Lower_F_Leg__R/Front_Foot__R
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Ears
+        weight: 1
+      - path: Eyeball_L
+        weight: 1
+      - path: Eyeball_R
+        weight: 1
+      - path: Eyelid_L
+        weight: 1
+      - path: Eyelid_R
+        weight: 1
+      - path: Front_Legs
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Pounce
+      takeName: Pounce
+      firstFrame: -1
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back_Legs
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body_Rig
+        weight: 1
+      - path: Body_Rig/Head
+        weight: 1
+      - path: Body_Rig/Head_0
+        weight: 1
+      - path: Body_Rig/Head_0/Ear_L
+        weight: 1
+      - path: Body_Rig/Head_0/Ear_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_L_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_L_Control/Eye_L
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_R_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_R_Control/Eye_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_L_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_L_Control/Eyebrow_L
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_R_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_R_Control/Eyebrow_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Mouth_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Mouth_Control/Mouth
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Nose_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Nose_Control/Nose
+        weight: 1
+      - path: Body_Rig/Neck_0
+        weight: 1
+      - path: Body_Rig/Neck_0/Upper_Torso
+        weight: 1
+      - path: Body_Rig/Neck_0/Upper_Torso/Lower_Torso
+        weight: 1
+      - path: Body_Rig/Tail_1
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2/Tail_3
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2/Tail_3/Tail_4
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L/Lower_B_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L/Lower_B_Leg__L/Back_Foot__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R/Lower_B_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R/Lower_B_Leg__R/Back_Foot__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L/Lower_F_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L/Lower_F_Leg__L/Front_Foot__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R/Lower_F_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R/Lower_F_Leg__R/Front_Foot__R
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Ears
+        weight: 1
+      - path: Eyeball_L
+        weight: 1
+      - path: Eyeball_R
+        weight: 1
+      - path: Eyelid_L
+        weight: 1
+      - path: Eyelid_R
+        weight: 1
+      - path: Front_Legs
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Run
+      takeName: Run
+      firstFrame: -1
+      lastFrame: 14
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back_Legs
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body_Rig
+        weight: 1
+      - path: Body_Rig/Head
+        weight: 1
+      - path: Body_Rig/Head_0
+        weight: 1
+      - path: Body_Rig/Head_0/Ear_L
+        weight: 1
+      - path: Body_Rig/Head_0/Ear_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_L_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_L_Control/Eye_L
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_R_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_R_Control/Eye_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_L_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_L_Control/Eyebrow_L
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_R_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_R_Control/Eyebrow_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Mouth_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Mouth_Control/Mouth
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Nose_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Nose_Control/Nose
+        weight: 1
+      - path: Body_Rig/Neck_0
+        weight: 1
+      - path: Body_Rig/Neck_0/Upper_Torso
+        weight: 1
+      - path: Body_Rig/Neck_0/Upper_Torso/Lower_Torso
+        weight: 1
+      - path: Body_Rig/Tail_1
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2/Tail_3
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2/Tail_3/Tail_4
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L/Lower_B_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L/Lower_B_Leg__L/Back_Foot__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R/Lower_B_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R/Lower_B_Leg__R/Back_Foot__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L/Lower_F_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L/Lower_F_Leg__L/Front_Foot__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R/Lower_F_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R/Lower_F_Leg__R/Front_Foot__R
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Ears
+        weight: 1
+      - path: Eyeball_L
+        weight: 1
+      - path: Eyeball_R
+        weight: 1
+      - path: Eyelid_L
+        weight: 1
+      - path: Eyelid_R
+        weight: 1
+      - path: Front_Legs
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Running_Jump
+      takeName: Running_Jump
+      firstFrame: -1
+      lastFrame: 14
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back_Legs
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body_Rig
+        weight: 1
+      - path: Body_Rig/Head
+        weight: 1
+      - path: Body_Rig/Head_0
+        weight: 1
+      - path: Body_Rig/Head_0/Ear_L
+        weight: 1
+      - path: Body_Rig/Head_0/Ear_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_L_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_L_Control/Eye_L
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_R_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_R_Control/Eye_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_L_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_L_Control/Eyebrow_L
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_R_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_R_Control/Eyebrow_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Mouth_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Mouth_Control/Mouth
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Nose_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Nose_Control/Nose
+        weight: 1
+      - path: Body_Rig/Neck_0
+        weight: 1
+      - path: Body_Rig/Neck_0/Upper_Torso
+        weight: 1
+      - path: Body_Rig/Neck_0/Upper_Torso/Lower_Torso
+        weight: 1
+      - path: Body_Rig/Tail_1
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2/Tail_3
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2/Tail_3/Tail_4
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L/Lower_B_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L/Lower_B_Leg__L/Back_Foot__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R/Lower_B_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R/Lower_B_Leg__R/Back_Foot__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L/Lower_F_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L/Lower_F_Leg__L/Front_Foot__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R/Lower_F_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R/Lower_F_Leg__R/Front_Foot__R
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Ears
+        weight: 1
+      - path: Eyeball_L
+        weight: 1
+      - path: Eyeball_R
+        weight: 1
+      - path: Eyelid_L
+        weight: 1
+      - path: Eyelid_R
+        weight: 1
+      - path: Front_Legs
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Sit_Down
+      takeName: Sit_Down
+      firstFrame: -1
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back_Legs
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body_Rig
+        weight: 1
+      - path: Body_Rig/Head
+        weight: 1
+      - path: Body_Rig/Head_0
+        weight: 1
+      - path: Body_Rig/Head_0/Ear_L
+        weight: 1
+      - path: Body_Rig/Head_0/Ear_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_L_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_L_Control/Eye_L
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_R_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_R_Control/Eye_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_L_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_L_Control/Eyebrow_L
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_R_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_R_Control/Eyebrow_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Mouth_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Mouth_Control/Mouth
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Nose_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Nose_Control/Nose
+        weight: 1
+      - path: Body_Rig/Neck_0
+        weight: 1
+      - path: Body_Rig/Neck_0/Upper_Torso
+        weight: 1
+      - path: Body_Rig/Neck_0/Upper_Torso/Lower_Torso
+        weight: 1
+      - path: Body_Rig/Tail_1
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2/Tail_3
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2/Tail_3/Tail_4
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L/Lower_B_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L/Lower_B_Leg__L/Back_Foot__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R/Lower_B_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R/Lower_B_Leg__R/Back_Foot__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L/Lower_F_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L/Lower_F_Leg__L/Front_Foot__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R/Lower_F_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R/Lower_F_Leg__R/Front_Foot__R
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Ears
+        weight: 1
+      - path: Eyeball_L
+        weight: 1
+      - path: Eyeball_R
+        weight: 1
+      - path: Eyelid_L
+        weight: 1
+      - path: Eyelid_R
+        weight: 1
+      - path: Front_Legs
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Sit_Down_Idle
+      takeName: Sit_Down_Idle
+      firstFrame: -1
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back_Legs
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body_Rig
+        weight: 1
+      - path: Body_Rig/Head
+        weight: 1
+      - path: Body_Rig/Head_0
+        weight: 1
+      - path: Body_Rig/Head_0/Ear_L
+        weight: 1
+      - path: Body_Rig/Head_0/Ear_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_L_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_L_Control/Eye_L
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_R_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_R_Control/Eye_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_L_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_L_Control/Eyebrow_L
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_R_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_R_Control/Eyebrow_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Mouth_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Mouth_Control/Mouth
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Nose_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Nose_Control/Nose
+        weight: 1
+      - path: Body_Rig/Neck_0
+        weight: 1
+      - path: Body_Rig/Neck_0/Upper_Torso
+        weight: 1
+      - path: Body_Rig/Neck_0/Upper_Torso/Lower_Torso
+        weight: 1
+      - path: Body_Rig/Tail_1
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2/Tail_3
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2/Tail_3/Tail_4
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L/Lower_B_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L/Lower_B_Leg__L/Back_Foot__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R/Lower_B_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R/Lower_B_Leg__R/Back_Foot__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L/Lower_F_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L/Lower_F_Leg__L/Front_Foot__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R/Lower_F_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R/Lower_F_Leg__R/Front_Foot__R
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Ears
+        weight: 1
+      - path: Eyeball_L
+        weight: 1
+      - path: Eyeball_R
+        weight: 1
+      - path: Eyelid_L
+        weight: 1
+      - path: Eyelid_R
+        weight: 1
+      - path: Front_Legs
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Sprint
+      takeName: Sprint
+      firstFrame: -1
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back_Legs
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body_Rig
+        weight: 1
+      - path: Body_Rig/Head
+        weight: 1
+      - path: Body_Rig/Head_0
+        weight: 1
+      - path: Body_Rig/Head_0/Ear_L
+        weight: 1
+      - path: Body_Rig/Head_0/Ear_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_L_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_L_Control/Eye_L
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_R_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_R_Control/Eye_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_L_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_L_Control/Eyebrow_L
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_R_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_R_Control/Eyebrow_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Mouth_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Mouth_Control/Mouth
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Nose_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Nose_Control/Nose
+        weight: 1
+      - path: Body_Rig/Neck_0
+        weight: 1
+      - path: Body_Rig/Neck_0/Upper_Torso
+        weight: 1
+      - path: Body_Rig/Neck_0/Upper_Torso/Lower_Torso
+        weight: 1
+      - path: Body_Rig/Tail_1
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2/Tail_3
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2/Tail_3/Tail_4
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L/Lower_B_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L/Lower_B_Leg__L/Back_Foot__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R/Lower_B_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R/Lower_B_Leg__R/Back_Foot__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L/Lower_F_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L/Lower_F_Leg__L/Front_Foot__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R/Lower_F_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R/Lower_F_Leg__R/Front_Foot__R
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Ears
+        weight: 1
+      - path: Eyeball_L
+        weight: 1
+      - path: Eyeball_R
+        weight: 1
+      - path: Eyelid_L
+        weight: 1
+      - path: Eyelid_R
+        weight: 1
+      - path: Front_Legs
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Stalk
+      takeName: Stalk
+      firstFrame: -1
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back_Legs
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body_Rig
+        weight: 1
+      - path: Body_Rig/Head
+        weight: 1
+      - path: Body_Rig/Head_0
+        weight: 1
+      - path: Body_Rig/Head_0/Ear_L
+        weight: 1
+      - path: Body_Rig/Head_0/Ear_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_L_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_L_Control/Eye_L
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_R_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_R_Control/Eye_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_L_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_L_Control/Eyebrow_L
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_R_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_R_Control/Eyebrow_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Mouth_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Mouth_Control/Mouth
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Nose_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Nose_Control/Nose
+        weight: 1
+      - path: Body_Rig/Neck_0
+        weight: 1
+      - path: Body_Rig/Neck_0/Upper_Torso
+        weight: 1
+      - path: Body_Rig/Neck_0/Upper_Torso/Lower_Torso
+        weight: 1
+      - path: Body_Rig/Tail_1
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2/Tail_3
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2/Tail_3/Tail_4
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L/Lower_B_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L/Lower_B_Leg__L/Back_Foot__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R/Lower_B_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R/Lower_B_Leg__R/Back_Foot__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L/Lower_F_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L/Lower_F_Leg__L/Front_Foot__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R/Lower_F_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R/Lower_F_Leg__R/Front_Foot__R
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Ears
+        weight: 1
+      - path: Eyeball_L
+        weight: 1
+      - path: Eyeball_R
+        weight: 1
+      - path: Eyelid_L
+        weight: 1
+      - path: Eyelid_R
+        weight: 1
+      - path: Front_Legs
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Static_Backup
+      takeName: Static_Backup
+      firstFrame: -1
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back_Legs
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body_Rig
+        weight: 1
+      - path: Body_Rig/Head
+        weight: 1
+      - path: Body_Rig/Head_0
+        weight: 1
+      - path: Body_Rig/Head_0/Ear_L
+        weight: 1
+      - path: Body_Rig/Head_0/Ear_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_L_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_L_Control/Eye_L
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_R_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_R_Control/Eye_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_L_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_L_Control/Eyebrow_L
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_R_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_R_Control/Eyebrow_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Mouth_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Mouth_Control/Mouth
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Nose_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Nose_Control/Nose
+        weight: 1
+      - path: Body_Rig/Neck_0
+        weight: 1
+      - path: Body_Rig/Neck_0/Upper_Torso
+        weight: 1
+      - path: Body_Rig/Neck_0/Upper_Torso/Lower_Torso
+        weight: 1
+      - path: Body_Rig/Tail_1
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2/Tail_3
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2/Tail_3/Tail_4
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L/Lower_B_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L/Lower_B_Leg__L/Back_Foot__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R/Lower_B_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R/Lower_B_Leg__R/Back_Foot__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L/Lower_F_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L/Lower_F_Leg__L/Front_Foot__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R/Lower_F_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R/Lower_F_Leg__R/Front_Foot__R
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Ears
+        weight: 1
+      - path: Eyeball_L
+        weight: 1
+      - path: Eyeball_R
+        weight: 1
+      - path: Eyelid_L
+        weight: 1
+      - path: Eyelid_R
+        weight: 1
+      - path: Front_Legs
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Walk
+      takeName: Walk
+      firstFrame: -1
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back_Legs
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body_Rig
+        weight: 1
+      - path: Body_Rig/Head
+        weight: 1
+      - path: Body_Rig/Head_0
+        weight: 1
+      - path: Body_Rig/Head_0/Ear_L
+        weight: 1
+      - path: Body_Rig/Head_0/Ear_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_L_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_L_Control/Eye_L
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_R_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eye_R_Control/Eye_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_L_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_L_Control/Eyebrow_L
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_R_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Eyebrow_R_Control/Eyebrow_R
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Mouth_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Mouth_Control/Mouth
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Nose_Control
+        weight: 1
+      - path: Body_Rig/Main_Eye_Control/Nose_Control/Nose
+        weight: 1
+      - path: Body_Rig/Neck_0
+        weight: 1
+      - path: Body_Rig/Neck_0/Upper_Torso
+        weight: 1
+      - path: Body_Rig/Neck_0/Upper_Torso/Lower_Torso
+        weight: 1
+      - path: Body_Rig/Tail_1
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2/Tail_3
+        weight: 1
+      - path: Body_Rig/Tail_1/Tail_2/Tail_3/Tail_4
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L/Lower_B_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__L/Lower_B_Leg__L/Back_Foot__L
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R/Lower_B_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_B_Leg__R/Lower_B_Leg__R/Back_Foot__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L/Lower_F_Leg__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__L/Lower_F_Leg__L/Front_Foot__L
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R/Lower_F_Leg__R
+        weight: 1
+      - path: Body_Rig/Upper_F_Leg__R/Lower_F_Leg__R/Front_Foot__R
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Ears
+        weight: 1
+      - path: Eyeball_L
+        weight: 1
+      - path: Eyeball_R
+        weight: 1
+      - path: Eyelid_L
+        weight: 1
+      - path: Eyelid_R
+        weight: 1
+      - path: Front_Legs
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
